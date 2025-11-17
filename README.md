@@ -19,10 +19,10 @@
 
 ## 🌐 Socials
 <p align="left">
-  <a href="https://www.linkedin.com/in/asha-mohamed-a1b298396/" target="_blank">
+  <a href="https://www.linkedin.com/in/asha-mohamed" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white">
   </a>
-  <a href="mailto:ashamohamedismail97@gmail.com">
+  <a href="mailto:falastine924@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white">
   </a>
 </p>
@@ -45,7 +45,7 @@
 ## ⚙️ **Backend Development**
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -67,12 +67,12 @@
 ---
 
 ## ⭐ **Core Strengths**
-- 🔹 Writing clean and readable code  
-- 🔹 UI/UX sense — minimal, modern, and elegant  
+- 🔹 Writing clean, readable code  
+- 🔹 Strong UI/UX sense — minimal, modern, aesthetic  
 - 🔹 API design & integration  
-- 🔹 Problem-solving and debugging  
-- 🔹 Ability to learn quickly and adapt  
-- 🔹 Strong attention to detail  
+- 🔹 Problem-solving & debugging  
+- 🔹 Quick learner and adaptable  
+- 🔹 Attention to detail  
 
 ---
 
@@ -95,6 +95,8 @@
 
 ---
 
+## 💬 Favorite Dev Quote
+> *“The best error message is the one that never shows up.”*
 
 ---
 
