@@ -20,7 +20,7 @@
 ## 🌐 Socials
 <p align="left">
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
-  <a href="mailto:falastine924@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a>
+  <a href="mailto:ashamohamedismail97@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a>
 </p>
 
 ---
@@ -91,8 +91,6 @@
 
 ---
 
-## 💬 Favorite Dev Quote
-> *“The best error message is the one that never shows up.”*
 
 ---
 
