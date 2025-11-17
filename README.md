@@ -19,7 +19,7 @@
 
 ## 🌐 Socials
 <p align="left">
-  <a href="https://www.linkedin.com/in/asha-mohamed" target="_blank">
+  <a href="https://www.linkedin.com/in/asha-mohamed-a1b298396/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:falastine924@gmail.com">
